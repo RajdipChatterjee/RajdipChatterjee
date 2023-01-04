@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/RajdipChatterjee/RajdipChatterjee/blob/main/images/Profile%20Banner%20image.png?raw=true)
 # Rajdip Chatterjee
 
-I'm Rajdip, a 19 year old aspiring web designer and developer. I really enjoyed learning different web based technologies such as HTML, CSS, Bootstrap and currrently learning Javascript from Dr. Angela Yu. 
+I'm Rajdip, a 19 year old aspiring web designer and developer. I really enjoyed learning different web-based technologies such as HTML, CSS, and Bootstrap, and am currrently learning Javascript from Dr. Angela Yu. 
 
 Looking for opportunities.
 Thank you!😊
