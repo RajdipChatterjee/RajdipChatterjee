@@ -2,7 +2,6 @@
 # Rajdip Chatterjee
 
 I'm Rajdip, a 21-year-old web designer and developer.
-
 I am looking for opportunities.
 Thank you!😊
 
