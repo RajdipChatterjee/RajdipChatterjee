@@ -1,20 +1,37 @@
 ![Design and Development](https://github.com/RajdipChatterjee/RajdipChatterjee/blob/main/images/Profile%20Banner%20image.png?raw=true)
-# Rajdip Chatterjee
 
-I'm Rajdip, a 21-year-old web designer and developer.
-I am looking for opportunities.
-Thank you!😊
+# 👋 Hey, I'm Rajdip Chatterjee  
 
-## Skills and Experience
+💻 Passionate **Full-Stack Web Developer** exploring modern technologies and building scalable applications.  
+🚀 Always curious to learn and create impactful digital experiences.  
 
-* HTML, CSS, JavaScript, Bootstrap, MERN, Java, C, Python
+---
 
-## Accustomed with
+## 🛠️ Tech Stack  
 
-* VS Code, Figma, Canva
+**Frontend:**  
+- TypeScript • React.js • TailwindCSS • Fluent UI  
 
-## Reach me
+**Backend & Database:**  
+- ASP.NET • MongoDB  
 
-* Gmail- rajdipchatterjee3000@gmail.com
-* Linkedin- https://www.linkedin.com/in/rajdip-chatterjee-612b73232/
-* Twitter- https://twitter.com/Rajdip3000
+**Others:**  
+- Axios • REST APIs • Git & GitHub  
+
+---
+
+## 💡 Tools I Use  
+- VS Code  
+- Figma  
+- Canva  
+
+---
+
+## 📫 Reach Me  
+- 📧 Gmail: **rajdipchatterjee3000@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajdip-chatterjee-612b73232/)  
+- 🐦 [Twitter](https://twitter.com/Rajdip3000)  
+
+---
+
+⭐️ *“Code. Learn. Build. Repeat.”*  
