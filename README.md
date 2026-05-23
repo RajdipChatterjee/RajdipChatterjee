@@ -1,5 +1,6 @@
+<!--
 ![Design and Development](https://github.com/RajdipChatterjee/RajdipChatterjee/blob/main/images/Profile%20Banner%20image.png?raw=true)
-
+-->
 # Rajdip Chatterjee
 
 Software developer working across backend engineering, web applications, and game development.
